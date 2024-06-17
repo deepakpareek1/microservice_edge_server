@@ -51,3 +51,9 @@ info:
   name: "cards"
   description: "Entailment Bank Card Application"
   version: "1.0.0"
+  
+logging:
+ level:
+  com:
+   entailment:
+    cards: DEBUG

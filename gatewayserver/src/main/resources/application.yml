@@ -27,3 +27,10 @@ info:
   name: "gatewayserver"
   description: "Entailment Bank Gateway Server Application"
   version: "1.0.0"
+
+
+logging:
+ level:
+  com:
+   entailment:
+    gatewayserver: DEBUG
